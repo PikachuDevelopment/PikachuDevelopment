@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Pikachu. 
+- 👀 I’m interested in Developing: Lua, Css, Html, JS, Java, Python.
+- 📫 You can reach me on Discord: typicalbeamer and on gmail : Pikachuudevelopment@gmail.com
